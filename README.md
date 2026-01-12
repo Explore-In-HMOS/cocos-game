@@ -1,3 +1,4 @@
+
 > **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
 
 # Bouncing Ball Game - HarmonyOS Next Wearable
@@ -5,10 +6,10 @@ This game demonstrates a **Cocos Creator** application optimized for **HarmonyOS
 
 # Preview
 <div>
-<img src="./Screenshots/_gif1.gif" width="24%"/>
-<img src="./Screenshots/_gif2.gif" width="24%"/>
-<img src="./Screenshots/_gif3.gif" width="24%"/>
-<img src="./Screenshots/_gif4.gif" width="24%"/>
+<img src="./screenshots/_gif1.gif" width="24%"/>
+<img src="./screenshots/_gif2.gif" width="24%"/>
+<img src="./screenshots/_gif3.gif" width="24%"/>
+<img src="./screenshots/_gif4.gif" width="24%"/>
 </div>
 
 # Use Cases
