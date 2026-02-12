@@ -6,10 +6,10 @@ This game demonstrates a **Cocos Creator** application optimized for **HarmonyOS
 
 # Preview
 <div>
-<img src="./screenshots/_gif1.gif" width="24%"/>
-<img src="./screenshots/_gif2.gif" width="24%"/>
-<img src="./screenshots/_gif3.gif" width="24%"/>
-<img src="./screenshots/_gif4.gif" width="24%"/>
+<img src="./Screenshots/_gif1.gif" width="24%"/>
+<img src="./Screenshots/_gif2.gif" width="24%"/>
+<img src="./Screenshots/_gif3.gif" width="24%"/>
+<img src="./Screenshots/_gif4.gif" width="24%"/>
 </div>
 
 # Use Cases
