@@ -1,8 +1,8 @@
 
 > **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
-# Bouncing Ball Game - HarmonyOS Next Wearable
-This game demonstrates a **Cocos Creator** application optimized for **HarmonyOS Next** wearable devices. It features an engaging bouncing ball game with touch and swipe controls, specifically designed for small screen wearable devices. The game utilizes real-time physics, particle effects, and smooth camera tracking to deliver an immersive gaming experience on smartwatches and AR glasses.
+# Bouncing Ball Game - HarmonyOS Wearable
+This game demonstrates a **Cocos Creator** application optimized for **HarmonyOS** wearable devices. It features an engaging bouncing ball game with touch and swipe controls, specifically designed for small screen wearable devices. The game utilizes real-time physics, particle effects, and smooth camera tracking to deliver an immersive gaming experience on smartwatches and AR glasses.
 
 # Preview
 <div>
@@ -38,7 +38,7 @@ This game demonstrates a **Cocos Creator** application optimized for **HarmonyOS
 # Tech Stack
 - **Game Engine**: Cocos Creator 3.8.7
 - **Languages**: TypeScript
-- **Target Platform**: HarmonyOS Next (Wearable)
+- **Target Platform**: HarmonyOS (Wearable)
 - **Graphics**: WebGL/OpenGL ES
 - **Physics**: Custom physics implementation
 - **Tools**: DevEco Studio 6.0.0.^
